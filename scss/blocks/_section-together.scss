@@ -1,0 +1,44 @@
+.section-together {
+  padding-top: 137px;
+  padding-bottom: 157px;
+}
+.section-together__header {
+  font-family: $font-primary-lora;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 51px;
+  text-align: center;
+  letter-spacing: 2px;
+  color: $white;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.section-together__desc {
+  font-family: $font-primary;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  text-align: center;
+  color: $white-opacity;
+  margin-bottom: 31px;
+}
+
+.section-together__link {
+  font-family: $font-primary;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  color: $white;
+  background-color: #dd783f;
+  border-radius: 3px;
+  padding: 12px 31px 12px 31px;
+  text-decoration: none;
+  max-width: 167px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
